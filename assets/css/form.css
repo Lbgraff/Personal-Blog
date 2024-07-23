@@ -1,0 +1,31 @@
+#div1 {
+  border-top: thick double black;
+  border-right: thick double black;
+}
+
+#heading1 {
+  text-align: center;
+  padding: 130px;
+  color: white;
+}
+
+.circle {
+  background: linear-gradient(to bottom, #f0dc79, #9c8c0d);
+  max-width: 400px;
+  max-height: 400px;
+  border-radius: 50%;
+}
+
+#div2 {
+  border-top: thick double black;
+}
+
+#heading2 {
+  text-align: center;
+}
+
+#button {
+  background-color: black;
+  color: white;
+  width: fit-content;
+}
