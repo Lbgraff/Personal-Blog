@@ -10,5 +10,9 @@ I used CSS is recreate the styling of the personal blog, including selectors tha
 
 I used JS to create the functionality for the button as well as the local storage of the blog array inputs.
 
+I used the following website for the light/dark theme toggle functionality:
+https://dev.to/whitep4nth3r/the-best-lightdark-mode-theme-toggle-in-javascript-368f
+
+
 ![screenshot](/assets/main.png)
 ![screenshot](/assets/blog.png)
